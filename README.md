@@ -115,4 +115,4 @@ modelo.predict_proba(nuevos_pacientes)[:, 1]   # DataFrame con las mismas column
 ```
 
 ## Autores
-William Osorio - Andres Monsalve - Juan Lagares – Universidad de Medellín
+Andres Monsalve - Juan Lagares – William Osorio - Universidad de Medellín
